@@ -23,5 +23,5 @@ A highly secure, modular, and production-ready RESTful API engine built with Nod
 
 ### 1. Clone the environment
 ```bash
-git clone [https://github.com/YOUR_USERNAME/BiteFlow-API.git](https://github.com/YOUR_USERNAME/BiteFlow-API.git)
+git clone [https://github.com/kareeb2022/BiteFlow-API.git](https://github.com/kareeb2022/BiteFlow-API.git)
 cd BiteFlow-API
